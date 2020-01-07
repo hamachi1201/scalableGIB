@@ -1,0 +1,11 @@
+node_modules/
+.DS_Store
+*.txt
+!requirement.txt
+*.db
+GIB/
+data_generation/data/
+data_generation/data/origin/
+*.json
+!package.json
+!package-lock.json
